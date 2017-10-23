@@ -1,0 +1,8 @@
+{
+    "name": "crq19951015/demo",
+    "description": "test composer",
+    "type": "porject",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
